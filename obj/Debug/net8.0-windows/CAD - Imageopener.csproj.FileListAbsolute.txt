@@ -1,0 +1,14 @@
+C:\Users\pablo\OneDrive\Documents\Inne Docs\Projects\Csharp\CAD - Imageopener\bin\Debug\net8.0-windows\CAD - Imageopener.exe
+C:\Users\pablo\OneDrive\Documents\Inne Docs\Projects\Csharp\CAD - Imageopener\bin\Debug\net8.0-windows\CAD - Imageopener.deps.json
+C:\Users\pablo\OneDrive\Documents\Inne Docs\Projects\Csharp\CAD - Imageopener\bin\Debug\net8.0-windows\CAD - Imageopener.runtimeconfig.json
+C:\Users\pablo\OneDrive\Documents\Inne Docs\Projects\Csharp\CAD - Imageopener\bin\Debug\net8.0-windows\CAD - Imageopener.dll
+C:\Users\pablo\OneDrive\Documents\Inne Docs\Projects\Csharp\CAD - Imageopener\bin\Debug\net8.0-windows\CAD - Imageopener.pdb
+C:\Users\pablo\OneDrive\Documents\Inne Docs\Projects\Csharp\CAD - Imageopener\obj\Debug\net8.0-windows\CAD - Imageopener.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pablo\OneDrive\Documents\Inne Docs\Projects\Csharp\CAD - Imageopener\obj\Debug\net8.0-windows\CAD - Imageopener.AssemblyInfoInputs.cache
+C:\Users\pablo\OneDrive\Documents\Inne Docs\Projects\Csharp\CAD - Imageopener\obj\Debug\net8.0-windows\CAD - Imageopener.AssemblyInfo.cs
+C:\Users\pablo\OneDrive\Documents\Inne Docs\Projects\Csharp\CAD - Imageopener\obj\Debug\net8.0-windows\CAD - Imageopener.csproj.CoreCompileInputs.cache
+C:\Users\pablo\OneDrive\Documents\Inne Docs\Projects\Csharp\CAD - Imageopener\obj\Debug\net8.0-windows\CAD - Imageopener.dll
+C:\Users\pablo\OneDrive\Documents\Inne Docs\Projects\Csharp\CAD - Imageopener\obj\Debug\net8.0-windows\refint\CAD - Imageopener.dll
+C:\Users\pablo\OneDrive\Documents\Inne Docs\Projects\Csharp\CAD - Imageopener\obj\Debug\net8.0-windows\CAD - Imageopener.pdb
+C:\Users\pablo\OneDrive\Documents\Inne Docs\Projects\Csharp\CAD - Imageopener\obj\Debug\net8.0-windows\CAD - Imageopener.genruntimeconfig.cache
+C:\Users\pablo\OneDrive\Documents\Inne Docs\Projects\Csharp\CAD - Imageopener\obj\Debug\net8.0-windows\ref\CAD - Imageopener.dll
