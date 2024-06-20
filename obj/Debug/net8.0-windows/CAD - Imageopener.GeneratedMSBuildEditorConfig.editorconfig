@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CAD___Imageopener
-build_property.ProjectDir = C:\Users\pablo\OneDrive\Documents\Inne Docs\Projects\Csharp\CAD - Imageopener\
+build_property.ProjectDir = c:\Users\pablo\OneDrive\Documents\Inne Docs\Projects\Csharp\CAD - Imageopener\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

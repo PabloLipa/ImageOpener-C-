@@ -11,8 +11,10 @@ partial class Form2
 
         this.components2 = new System.ComponentModel.Container();
         this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-        this.ClientSize = new System.Drawing.Size(5,5);
+        this.ClientSize = new System.Drawing.Size();
         this.FormBorderStyle = FormBorderStyle.None;
+        this.BackColor = Color.DimGray;
+        this.TransparencyKey = Color.DimGray;
         this.AutoSize = true;
         this.TopMost = true;// sempre a frente
         exibir();
@@ -25,7 +27,7 @@ partial class Form2
         localimagem = new PictureBox();
         localimagem.Location = new Point(1, 1); // Defina a posição desejada
         localimagem.SizeMode = PictureBoxSizeMode.AutoSize; // Ajuste o modo de exibição conforme necessário
-        localimagem.BorderStyle = BorderStyle.None; // Adicione uma borda para visualização
+        localimagem.BorderStyle = BorderStyle.FixedSingle; // Adicione uma borda para visualização
         localimagem.MouseDown += Form2MouseDown;
         localimagem.MouseMove += Form2MouseMove;
 

@@ -12,3 +12,4 @@ C:\Users\pablo\OneDrive\Documents\Inne Docs\Projects\Csharp\CAD - Imageopener\ob
 C:\Users\pablo\OneDrive\Documents\Inne Docs\Projects\Csharp\CAD - Imageopener\obj\Debug\net8.0-windows\CAD - Imageopener.pdb
 C:\Users\pablo\OneDrive\Documents\Inne Docs\Projects\Csharp\CAD - Imageopener\obj\Debug\net8.0-windows\CAD - Imageopener.genruntimeconfig.cache
 C:\Users\pablo\OneDrive\Documents\Inne Docs\Projects\Csharp\CAD - Imageopener\obj\Debug\net8.0-windows\ref\CAD - Imageopener.dll
+C:\Users\pablo\OneDrive\Documents\Inne Docs\Projects\Csharp\CAD - Imageopener\obj\Debug\net8.0-windows\CAD - Imageopener.sourcelink.json

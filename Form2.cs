@@ -1,12 +1,10 @@
-using System.Windows.Forms.VisualStyles;
-
 namespace CAD___Imageopener;
 public partial class Form2 : Form
 {
     public Form2()
     {
         InitializeComponent();
-        
+        this.FormBorderStyle = FormBorderStyle.None;
         
     }
     public Point mouseDownLocation;
